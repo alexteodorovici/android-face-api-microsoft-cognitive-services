@@ -1,4 +1,4 @@
-package facetest.alex.com.facetest;
+package com.ideeastudios.faceapi;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
